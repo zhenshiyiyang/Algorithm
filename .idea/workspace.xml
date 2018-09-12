@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/JieCheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/sum3close.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/graph/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/graph/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/字符串专题/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/携程/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/网易/CopyOffirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/阿里巴巴/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/阿里巴巴/HeMa.java" afterDir="false" />
+    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="添加新算法">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/京东/graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/去哪儿/MinInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易/banma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/JieCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/JieCheng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/sum3close.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/sum3close.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/图/graph/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/图/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/图/graph/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/字符串专题/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/字符串专题/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/携程/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/携程/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/网易/CopyOffirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/网易/CopyOffirst.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,31 +38,44 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="11" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="401" />
-          <entry key="txt" value="2" />
+          <entry key="java" value="1663" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="401" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="1663" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/去哪儿/MinInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +95,11 @@
         <option value="$PROJECT_DIR$/src/阿里巴巴/Array.java" />
         <option value="$PROJECT_DIR$/src/阿里巴巴/HeMa.java" />
         <option value="$PROJECT_DIR$/src/leetCode/JieCheng.java" />
+        <option value="$PROJECT_DIR$/src/网易/banma.java" />
+        <option value="$PROJECT_DIR$/src/京东/graph.java" />
+        <option value="$PROJECT_DIR$/src/京东/SimilarStr.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/IsValid.java" />
+        <option value="$PROJECT_DIR$/src/去哪儿/MinInt.java" />
       </list>
     </option>
   </component>
@@ -119,29 +139,7 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="网易" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="美团" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里巴巴" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="去哪儿" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536329471084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536773733877" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -181,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TopK">
+  <component name="RunManager" selected="Application.IsValid">
     <configuration name="ChangeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.ChangeSort" />
       <module name="Algorithm" />
@@ -189,6 +187,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.IsValid" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,6 +228,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="banma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网易.banma" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="网易.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="京东.graph" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="京东.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -233,9 +273,15 @@
     <list>
       <item itemvalue="Application.ChangeSort" />
       <item itemvalue="Application.TopK" />
+      <item itemvalue="Application.banma" />
+      <item itemvalue="Application.graph" />
+      <item itemvalue="Application.IsValid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsValid" />
+        <item itemvalue="Application.graph" />
+        <item itemvalue="Application.banma" />
         <item itemvalue="Application.TopK" />
         <item itemvalue="Application.ChangeSort" />
       </list>
@@ -253,7 +299,7 @@
       <updated>1533133795894</updated>
       <workItem from="1533133809074" duration="3596000" />
       <workItem from="1536164535017" duration="749000" />
-      <workItem from="1536209382979" duration="6982000" />
+      <workItem from="1536209382979" duration="15313000" />
     </task>
     <task id="LOCAL-00001" summary="个人算法总结提交">
       <created>1533136607740</created>
@@ -269,14 +315,22 @@
       <option name="project" value="LOCAL" />
       <updated>1536251093025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加新算法">
+      <created>1536329604847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536329604847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11327000" />
+    <option name="totallyTimeSpent" value="19658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,7 +371,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="个人算法总结提交" />
     <MESSAGE value="美团" />
-    <option name="LAST_COMMIT_MESSAGE" value="美团" />
+    <MESSAGE value="添加新算法！" />
+    <MESSAGE value="添加新算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加新算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/阿里巴巴/Car.java">
@@ -399,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/ChangeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/美团/bishi3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -451,6 +500,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/图/graph/Edge.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/JieCheng.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/网易/CopyOffirst.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -458,11 +513,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/图/graph/Edge.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/网易/banma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetCode/JieCheng.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/京东/SimilarStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/京东/graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/IsValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#944#955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/ChangeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/去哪儿/MinInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
