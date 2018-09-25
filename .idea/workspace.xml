@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="添加新算法2">
-      <change afterPath="$PROJECT_DIR$/src/bigo/Huiwen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bigo/LongestPalindromicSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boss/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boss/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boss/third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/HeBingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/MergeKList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第二次笔试/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第二次笔试/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第二次笔试/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第二次笔试/third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/拼多多/cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/拼多多/str.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/拼多多/youhui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/腾讯/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/腾讯/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/腾讯/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/腾讯/third.java" afterDir="false" />
+    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="添加新算法3">
+      <change afterPath="$PROJECT_DIR$/src/动态规划/IncreasingSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/LongestSubStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快手/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快手/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快手/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/迅雷/StringZip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/迅雷/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/迅雷/second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/JieCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/JieCheng.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/sum3close.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/sum3close.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/动态规划/LongArraySeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/LongArraySeq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/图/graph/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Edge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/图/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/图/graph/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/graph/Test.java" afterDir="false" />
@@ -55,32 +44,42 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="93" />
+          <entry key="java" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="93" />
+          <entry key="JAVA" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="9132" />
-          <entry key="txt" value="11" />
+          <entry key="java" value="12786" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9132" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="12786" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/动态规划/LongestSubStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,6 +134,15 @@
         <option value="$PROJECT_DIR$/src/boss/first.java" />
         <option value="$PROJECT_DIR$/src/boss/third.java" />
         <option value="$PROJECT_DIR$/src/boss/second.java" />
+        <option value="$PROJECT_DIR$/src/迅雷/first.java" />
+        <option value="$PROJECT_DIR$/src/迅雷/StringZip.java" />
+        <option value="$PROJECT_DIR$/src/迅雷/second.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/LongestSubStr.java" />
+        <option value="$PROJECT_DIR$/src/快手/second.java" />
+        <option value="$PROJECT_DIR$/src/快手/first.java" />
+        <option value="$PROJECT_DIR$/src/快手/third.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/IncreasingSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/LongArraySeq.java" />
       </list>
     </option>
   </component>
@@ -167,6 +175,18 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="快手" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,7 +199,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537536405619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537892666811" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -211,20 +231,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.second">
+  <component name="RunManager" selected="Application.LongArraySeq">
+    <configuration name="IncreasingSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划.IncreasingSubSequence" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongArraySeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划.LongArraySeq" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划.LongestSubStr" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="拼多多.cache" />
+    <configuration name="second (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="迅雷.second" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="拼多多.*" />
+          <option name="PATTERN" value="迅雷.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,55 +294,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="first (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boss.first" />
+    <configuration name="third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="快手.third" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boss.second" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="str" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="拼多多.str" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="拼多多.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="youhui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="拼多多.youhui" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="拼多多.*" />
+          <option name="PATTERN" value="快手.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.str" />
-      <item itemvalue="Application.cache" />
-      <item itemvalue="Application.youhui" />
-      <item itemvalue="Application.first (1)" />
-      <item itemvalue="Application.second" />
+      <item itemvalue="Application.second (1)" />
+      <item itemvalue="Application.LongestSubStr" />
+      <item itemvalue="Application.third" />
+      <item itemvalue="Application.IncreasingSubSequence" />
+      <item itemvalue="Application.LongArraySeq" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.second" />
-        <item itemvalue="Application.first (1)" />
-        <item itemvalue="Application.youhui" />
-        <item itemvalue="Application.cache" />
-        <item itemvalue="Application.str" />
+        <item itemvalue="Application.LongArraySeq" />
+        <item itemvalue="Application.IncreasingSubSequence" />
+        <item itemvalue="Application.third" />
+        <item itemvalue="Application.LongestSubStr" />
+        <item itemvalue="Application.second (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +352,7 @@
       <workItem from="1533133809074" duration="3596000" />
       <workItem from="1536164535017" duration="749000" />
       <workItem from="1536209382979" duration="63708000" />
-      <workItem from="1537542279757" duration="155000" />
+      <workItem from="1537542279757" duration="19101000" />
     </task>
     <task id="LOCAL-00001" summary="个人算法总结提交">
       <created>1533136607740</created>
@@ -369,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536910083849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加新算法3">
+      <created>1537543270542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537543270542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68208000" />
+    <option name="totallyTimeSpent" value="87154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -387,7 +414,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,86 +478,10 @@
     <MESSAGE value="添加新算法" />
     <MESSAGE value="添加新算法1" />
     <MESSAGE value="添加新算法2" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加新算法2" />
+    <MESSAGE value="添加新算法3" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加新算法3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Tree/BinTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Tree/findPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Tree/RcreateTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1501">
-          <caret line="158" column="32" lean-forward="true" selection-start-line="158" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Tree/HaveSubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Tree/TreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Array/RotatingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/knowledge/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/Array/sumOfSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/knowledge/FindContinuousSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToOffer/knowledge/IsContinuous.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ToOffer/knowledge/LastRemaining.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-53">
@@ -759,6 +710,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -787,6 +741,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -801,6 +758,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -808,6 +769,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/迅雷/StringZip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/迅雷/first.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/迅雷/second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/Step.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/IncreasingSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/快手/third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/快手/second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/快手/first.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/LongArraySeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/LongestSubStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
