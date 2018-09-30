@@ -1,5 +1,5 @@
 package sort.search;
-//n个排好序的数，找出某个数第一次出现的位置。利用快排的思想，加上一些限制条件。
+//n个排好序的数，找出某个数第一次出现的位置。利用二分的思想，加上一些限制条件。
 public class searchFrist {
     public static void main(String[] args){
     	int[] array = {1,2,2,2,3,4,4,5,6,7};

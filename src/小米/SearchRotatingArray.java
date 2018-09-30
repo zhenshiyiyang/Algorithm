@@ -5,8 +5,8 @@ package 小米;
 //则走第一个if判断，否则else
 public class SearchRotatingArray {
 	public static void main(String[] args){
-	    int[] array = new int[]{4,5,6,7,8,9,1,2,3};
-        System.out.println(search(array,2));
+	    int[] array = new int[]{4,5,6,7,0,1,2};
+        System.out.println(search(array,0));
     }
 	public static int search(int[] A, int target) {
 	    int low = 0;
