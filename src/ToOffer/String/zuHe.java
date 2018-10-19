@@ -38,4 +38,5 @@ public class zuHe {
             perm(s.substring(1, s.length()), m, result);  
         }  
     }  
-}  
+}
+
