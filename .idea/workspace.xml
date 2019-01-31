@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="添加新算法8">
-      <change afterPath="$PROJECT_DIR$/src/LRU/MyLRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Tree/DepthOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Tree/LeverOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToOffer/Tree/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/Exist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/MaxProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/RemoveDuplicates2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/RoatingSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SearchMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SetZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/SubSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/创新工场/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/创新工场/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/创新工场/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/创新工场/third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条测试/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条测试/SubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条测试/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条测试/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第六次笔试/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条第六次笔试/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条面试题/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/头条面试题/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/神策/second.java" afterDir="false" />
+    <list default="true" id="38b35e66-5365-4f06-94b3-e6adad093429" name="Default" comment="添加新算法9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/String/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/String/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToOffer/String/zuHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToOffer/String/zuHe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/JieCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/JieCheng.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/TwoNumSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/letterCombinations.java" afterDir="false" />
@@ -84,56 +53,19 @@
         <counts>
           <entry key="dummy" value="6" />
           <entry key="java" value="30695" />
-          <entry key="txt" value="21" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="30695" />
-          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="PLAIN_TEXT" value="30" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetCode/RemoveDuplicates2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetCode/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetCode/RoatingSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/小米/SearchRotatingArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,6 +77,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d308d4d3-cb46-4885-8459-67da644b1637" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -263,31 +198,6 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="小米" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,13 +207,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548939359675" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548939908305" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -472,7 +382,7 @@
       <workItem from="1547694418065" duration="22596000" />
       <workItem from="1548498143473" duration="1746000" />
       <workItem from="1548686284596" duration="4235000" />
-      <workItem from="1548770296270" duration="2290000" />
+      <workItem from="1548770296270" duration="2959000" />
     </task>
     <task id="LOCAL-00001" summary="个人算法总结提交">
       <created>1533136607740</created>
@@ -579,15 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539967887290</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="添加新算法9">
+      <created>1548939393626</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548939393626</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228841000" />
+    <option name="totallyTimeSpent" value="229510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18192919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -664,7 +580,9 @@
     <MESSAGE value="添加新算法6" />
     <MESSAGE value="添加新算法7" />
     <MESSAGE value="添加新算法8" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加新算法8" />
+    <MESSAGE value="添加新算法9" />
+    <MESSAGE value="添加新算法10" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加新算法10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/创新工场/first.java">
@@ -863,6 +781,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -915,6 +836,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -929,6 +853,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -936,6 +863,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -950,6 +880,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#286#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -981,10 +915,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetCode/RemoveDuplicates2.java">
+    <entry file="file://$PROJECT_DIR$/src/小米/SearchRotatingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="704">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/RoatingSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -995,17 +936,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/小米/SearchRotatingArray.java">
+    <entry file="file://$PROJECT_DIR$/src/leetCode/RemoveDuplicates2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetCode/RoatingSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="155">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1038,6 +972,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1066,7 +1001,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
