@@ -11,7 +11,7 @@ package sort.search;
 当 i < k时，就从i+1~n中查找。
  */
 public class searchKMin {
-	    public static int partion(int A[], int low, int high) {  
+	    public static int partition(int A[], int low, int high) {
 	        int pivotkey = A[low];  
 	        while (low < high) {  
 	            while (low < high && A[high] >= pivotkey)  
@@ -26,15 +26,15 @@ public class searchKMin {
 	    }  
 	    public static  int quickSort(int A[],int low,int high,int k){  
 	        if(low <= high){  
-	            int pivotloc = partion(A,low,high);  
-	            if(pivotloc == (k-1)){  
-	                return A[pivotloc];  
+	            int loc = partition(A,low,high);
+	            if(loc == (k-1)){
+	                return A[loc];
 	            }  
-	            else if(pivotloc < (k-1)){  
-	                return quickSort(A,pivotloc+1,high,k);  
+	            else if(loc < (k-1)){
+	                return quickSort(A,loc+1,high,k);
 	            }  
 	            else{  
-	                return quickSort(A,low,pivotloc-1,k);  
+	                return quickSort(A,low,loc-1,k);
 	            }  
 	        }else{  
 	            return -1;  

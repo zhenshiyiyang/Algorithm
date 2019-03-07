@@ -17,8 +17,8 @@ public class Pow {
         if(n==0){
             return 1;
         }
-        double v = power(x,n/2);
-        if(n%2==0){
+        double v = power(x,n>>1);
+        if((n&1)==0){
             return v*v;
         }else{
             return v*v*x;

@@ -48,7 +48,7 @@ public class SelectSort {
         //堆顶元素与最下面元素互换.
         for (i = n - 1; i >= 1; i--) {
             swap(array, 0, i);
-            heapify(array, 0, i);
+            heapify(array, 0, i-1);
         }
     }
     //构建

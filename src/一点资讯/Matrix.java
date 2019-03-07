@@ -15,16 +15,8 @@ public class Matrix {
 		}
 		public static boolean method(int[][] matrix) {
 			int sum = 0;
-//			int[] head = new int[matrix.length];
-//			head[0] = 1;
-//			for(int i=1;i<head.length;i++) {
-//				head[i] = -head[i-1];
-//			}
 			for(int i=0;i<matrix.length;i++) {
-				//int bw_flag = head[i];
 				for(int j=0;j<matrix[0].length;j++) {
-					//bw_flag = -bw_flag;
-					//sum += matrix[i][j] * bw_flag;
 					sum += matrix[i][j] * ((i+j)%2==0?1:-1);
 					System.out.print(matrix[i][j]);
 				}

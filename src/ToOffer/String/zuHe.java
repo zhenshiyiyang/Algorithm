@@ -15,9 +15,9 @@ public class zuHe {
   
     // 求字符串中所有字符的组合abc>a,b,c,ab,ac,bc,abc  
     public static void perm(String s,List<List<Character>> ret,List<Character> list) {
-        for (int i = 1; i <= s.length(); i++) {  
+        for (int i = 1; i <= s.length(); i++) {
             perm(s, i, ret,list,0);
-        }  
+        }
     }  
   
     // 从字符串s中选择m个字符  
